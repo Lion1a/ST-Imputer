@@ -32,4 +32,4 @@ Use the following command to run the main script:
 
 python train.py
 
-
+If you want to modify the experimental configuration parameters, please refer to /config/base.yaml and config.py.
