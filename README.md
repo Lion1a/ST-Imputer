@@ -30,7 +30,7 @@ The used datasets are available at:
 ## Usage
 Use the following command to run the main script:
 
-python train.py
+python aqi_main.py
 
 If you want to modify the experimental configuration parameters, please refer to /config/base.yaml and config.py.
 Specifically, key parameters such as the epochs, feature dimensions, and the number of dataset nodes can all be modified in the configuration file.
