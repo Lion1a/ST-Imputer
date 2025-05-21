@@ -33,3 +33,7 @@ Use the following command to run the main script:
 python train.py
 
 If you want to modify the experimental configuration parameters, please refer to /config/base.yaml and config.py.
+Specifically, key parameters such as the epochs, feature dimensions, and the number of dataset nodes can all be modified in the configuration file.
+
+## Use your own dataset
+Convert the data file into `.txt` format, place it in the `\data` directory, update the corresponding path in the `XX` file, and modify the `num_nodes` in `config.py`.
