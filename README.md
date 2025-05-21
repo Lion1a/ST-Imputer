@@ -36,4 +36,4 @@ If you want to modify the experimental configuration parameters, please refer to
 Specifically, key parameters such as the epochs, feature dimensions, and the number of dataset nodes can all be modified in the configuration file.
 
 ## Use your own dataset
-Convert the data file into `.txt` format, place it in the `\data` directory, update the corresponding path in the `XX` file, and modify the `num_nodes` in `config.py`.
+Convert the data file into `.txt` format, place it in the `\data` directory, update the corresponding path in the `DA_AQI` file, and modify the `num_nodes` in `config.py`.
